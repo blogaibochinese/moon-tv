@@ -26,7 +26,7 @@ export const useSidebar = () => useContext(SidebarContext);
 
 // 可替换为你自己的 logo 图片
 const Logo = () => {
-  const { siteName } = useSite();
+  const { siteName } = AiboTV;
   return (
     <Link
       href='https://blog.aibochinese.com/archives/deploy-moon-tv/'
