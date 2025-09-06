@@ -29,7 +29,7 @@ const Logo = () => {
   const { siteName } = useSite();
   return (
     <Link
-      href='/'
+      href='https://up.aibochinese.com/%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8/8f00e1e4-bf5f-47a6-8522-9ba594e38f30.jpg'
       className='flex items-center justify-center h-16 select-none hover:opacity-80 transition-opacity duration-200'
     >
       <span className='text-2xl font-bold text-green-600 tracking-tight'>
