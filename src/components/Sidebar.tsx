@@ -29,7 +29,7 @@ const Logo = () => {
   const { siteName } = useSite();
   return (
     <Link
-      href='/'
+      href='https://blog.aibochinese.com/archives/deploy-moon-tv/'
       className='flex items-center justify-center h-16 select-none hover:opacity-80 transition-opacity duration-200'
     >
       <span className='text-2xl font-bold text-green-600 tracking-tight'>
